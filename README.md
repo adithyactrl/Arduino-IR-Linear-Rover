@@ -52,21 +52,24 @@ This project uses two continuous rotation servos to achieve linear motion (forwa
 
 ## 📷 Project Images
 
-### Circuit
+### 🚗 Rover Simulation
 
-*(Insert circuit image here)*
+![Rover Simulation](Images/Rover_img.png)
+
+---
+
+### 🔌 Circuit Schematic
+
+![Circuit Schematic](Images/Rover_Sch.png)
 
 ---
 
 ## 📚 What I Learned
 
-- Arduino programming
 - Continuous rotation servo control
 - IR remote communication
 - State-based programming
 - Hardware debugging
-- Using external Arduino libraries
-- Organizing Arduino projects for GitHub
 
 ## 🙏 Acknowledgements
 
