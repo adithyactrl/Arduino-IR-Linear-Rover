@@ -22,7 +22,7 @@ This project uses two continuous rotation servos to achieve linear motion (forwa
 - Arduino Uno
 - IR Receiver Module
 - IR Remote
-- 2 × Continuous Rotation Servos
+- 4× Continuous Rotation Servos
 - Red LED
 - White LED
 - Breadboard
